@@ -86,15 +86,15 @@ const ContactSection: React.FC = () => {
             <div className="space-y-4 mb-8">
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-blue-400" />
-                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>hello@webcraftpro.com</span>
+                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>johnorlandsudoy49@gmail.com</span>
               </div>
               <div className="flex items-center space-x-4">
                 <Phone className="h-6 w-6 text-purple-400" />
-                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>+1 (555) 123-4567</span>
+                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>09912961716</span>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="h-6 w-6 text-pink-400" />
-                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>New York, NY</span>
+                <span className="text-base sm:text-lg text-white font-inter" style={{ fontFamily: 'Inter, Arial, sans-serif' }}>Baesa, Quezon City, Philippines</span>
               </div>
             </div>
             <div className="grid grid-cols-3 gap-4 text-center">
