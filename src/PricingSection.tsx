@@ -17,7 +17,7 @@ const pricingTiers: Record<PricingTierKey, {
 }> = {
   basic: {
     name: "Standard Corporate",
-    price: "$2,500 - $4,500",
+    price: "$1000 - $1500",
     pages: "5-8 pages",
     features: [
       "Responsive Design (Mobile & Desktop)",
@@ -32,7 +32,7 @@ const pricingTiers: Record<PricingTierKey, {
   },
   premium: {
     name: "Premium Business",
-    price: "$4,500 - $8,500",
+    price: "$2500 - $3000",
     pages: "8-15 pages",
     features: [
       "Everything in Standard Corporate",
